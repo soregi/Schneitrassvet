@@ -1,0 +1,29 @@
+﻿l_english:
+
+ ### Parties ###
+
+  PER_national_socialism_party:0 "사회투사연합"
+  PER_national_socialism_party_long:0 "무슬림사회주의투사연합"
+  PER_marxism_party:0 "정의당"
+  PER_marxism_party_long:0 "정의당"
+  PER_liberal_socialism_party:0 "사회당"
+  PER_liberal_socialism_party_long:0 "사회당"
+  PER_social_democracy_party:0 "민주당(급)"
+  PER_social_democracy_party_long:0 "민주당 급진파"
+  PER_liberal_democracy_party:0 "부흥당"
+  PER_liberal_democracy_party_long:0 "부흥당"
+  PER_conservatism_party:0 "민주당(온)"
+  PER_conservatism_party_long:0 "민주당 온건파"
+  PER_authoritarian_party:0 "카자크"
+  PER_authoritarian_party_long:0 "카자크군사회의"
+  PER_state_totalism_party:0 "신이란당"
+  PER_state_totalism_party_long:0 "신이란당"
+
+
+ ### Ideas ###
+
+
+ ### Decisions ###
+
+
+ ### Events ###
