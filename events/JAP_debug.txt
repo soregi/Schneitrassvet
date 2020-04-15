@@ -9,6 +9,6 @@ country_event = {
 		load_focus_tree = {
 			tree = JAP_kodoha_focus
 			keep_completed = yes
-			}
 		}
 	}
+}
