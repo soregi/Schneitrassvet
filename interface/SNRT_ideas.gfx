@@ -7,4 +7,18 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/national_spirits/JAP/JAP_nation_divided_idea.tga"
 	}
 	
+	### GER ###
+	spriteType = {
+		name = "GFX_idea_GER_freikorps"
+		texturefile = "gfx/interface/ideas/national_spirits/GER/freikorps.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_GER_sturmtuppen"
+		texturefile = "gfx/interface/ideas/national_spirits/GER/sa_logo.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_GER_spartacus"
+		texturefile = "gfx/interface/ideas/national_spirits/GER/spartacus.dds"
+	}
+	
 }
