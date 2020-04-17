@@ -1,8 +1,14 @@
 ideologies = {
 	
-	national_socialism = {	
+	national_socialism = {
 		types = {
 			national_socialism_subtype = {}
+		}
+		types = {
+			national_techno_socialism = {}
+		}
+		types = {
+			ethnic_socialism = {}
 		}
 		
 		dynamic_faction_names = {}
@@ -15,6 +21,7 @@ ideologies = {
 			can_send_volunteers = yes
 			can_puppet = yes
 			can_lower_tension = no
+			can_join_factions = no
 		}
 		
 		can_host_government_in_exile = no
@@ -45,6 +52,15 @@ ideologies = {
 		types = {
 			marxism_subtype = {}
 		}
+		types = {
+			luxemburgism = {}
+		}
+		types = {
+			centrist_marxism = {}
+		}
+		types = {
+			bolivarianism = {}
+		}
 		
 		dynamic_faction_names = {}
 		
@@ -56,6 +72,7 @@ ideologies = {
 			can_send_volunteers = yes
 			can_puppet = yes
 			can_lower_tension = no
+			can_join_factions = no
 		}
 		
 		can_host_government_in_exile = no
@@ -86,6 +103,12 @@ ideologies = {
 		types = {
 			liberal_socialism_subtype = {}
 		}
+		types = {
+			anarchism = {}
+		}
+		types = {
+			syndicalism = {}
+		}
 		
 		dynamic_faction_names = {}
 		
@@ -97,6 +120,7 @@ ideologies = {
 			can_send_volunteers = yes
 			can_puppet = yes
 			can_lower_tension = no
+			can_join_factions = no
 		}
 		
 		can_host_government_in_exile = no
@@ -127,6 +151,15 @@ ideologies = {
 		types = {
 			social_democracy_subtype = {}
 		}
+		types = {
+			german_social_democracy = {}
+		}
+		types = {
+			fabianism = {}
+		}
+		types = {
+			jacobinism = {}
+		}
 		
 		dynamic_faction_names = {}
 		
@@ -138,6 +171,7 @@ ideologies = {
 			can_send_volunteers = yes
 			can_puppet = yes
 			can_lower_tension = yes
+			can_join_factions = no
 		}
 		
 		can_host_government_in_exile = no
@@ -168,6 +202,12 @@ ideologies = {
 		types = {
 			liberal_democracy_subtype = {}
 		}
+		types = {
+			libertarianism = {}
+		}
+		types = {
+			social_liberalism = {}
+		}
 		
 		dynamic_faction_names = {}
 		
@@ -179,6 +219,7 @@ ideologies = {
 			can_send_volunteers = yes
 			can_puppet = yes
 			can_lower_tension = yes
+			can_join_factions = no
 		}
 		
 		can_host_government_in_exile = no
@@ -209,6 +250,15 @@ ideologies = {
 		types = {
 			conservatism_subtype = {}
 		}
+		types = {
+			social_conservatism = {}
+		}
+		types = {
+			national_conservatism = {}
+		}
+		types = {
+			liberal_conservatism = {}
+		}
 		
 		dynamic_faction_names = {}
 		
@@ -220,6 +270,7 @@ ideologies = {
 			can_send_volunteers = yes
 			can_puppet = yes
 			can_lower_tension = yes
+			can_join_factions = no
 		}
 		
 		can_host_government_in_exile = no
@@ -250,6 +301,15 @@ ideologies = {
 		types = {
 			authoritarian_subtype = {}
 		}
+		types = {
+			despotism = {}
+		}
+		types = {
+			populism = {}
+		}
+		types = {
+			fundamentalism = {}
+		}
 		
 		dynamic_faction_names = {}
 		
@@ -261,6 +321,7 @@ ideologies = {
 			can_send_volunteers = yes
 			can_puppet = yes
 			can_lower_tension = no
+			can_join_factions = no
 		}
 		
 		can_host_government_in_exile = no
@@ -291,6 +352,15 @@ ideologies = {
 		types = {
 			state_totalism_subtype = {}
 		}
+		types = {
+			ethnic_integralism = {}
+		}
+		types = {
+			ethnic_colonialism = {}
+		}
+		types = {
+			national_technocrat = {}
+		}
 		
 		dynamic_faction_names = {}
 		
@@ -302,6 +372,7 @@ ideologies = {
 			can_send_volunteers = yes
 			can_puppet = yes
 			can_lower_tension = no
+			can_join_factions = no
 		}
 		
 		can_host_government_in_exile = no
