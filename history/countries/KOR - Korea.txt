@@ -43,9 +43,9 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Eun Yi"
-	desc = "POLITICS_EUN_YI_DESC"
-	picture = "gfx/leaders/KOR/Portrait_Japan_Hirohito.dds"
+	name = "Wu Yi"
+	desc = "POLITICS_WU_YI_DESC"
+	picture = "gfx/leaders/KOR/Portrait_Wu_Yi.dds"
 	expire = "1965.1.1"
 	ideology = authoritarian_subtype
 	traits = {
