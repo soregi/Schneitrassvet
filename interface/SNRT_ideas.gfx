@@ -6,6 +6,10 @@ spriteTypes = {
 		name = "GFX_idea_JAP_nation_divided"
 		texturefile = "gfx/interface/ideas/national_spirits/JAP/JAP_nation_divided_idea.tga"
 	}
+	spriteType = {
+		name = "GFX_idea_JAP_country_in_flames"
+		texturefile = "gfx/interface/ideas/national_spirits/JAP/JAP_country_in_flames_idea.tga"
+	}
 	
 	### GER ###
 	spriteType = {

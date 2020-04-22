@@ -12,3 +12,24 @@ country_event = {
 		}
 	}
 }
+
+country_event = {
+	id = JAP_debug_event.2
+	title = JAP_debug_event.2.t
+	desc = JAP_debug_event.2.d
+	
+	option = {
+		add_ideas = JAP_country_in_flames
+		country_lock_all_division_template = yes
+	}
+}
+
+country_event = {
+	id = JAP_debug_event.3
+	title = JAP_debug_event.3.t
+	desc = JAP_debug_event.3.d
+	
+	option = {
+		country_lock_all_division_template = no
+	}
+}
