@@ -4,11 +4,29 @@ country_event = {
 	id = JAP_debug_event.1
 	title = JAP_debug_event.1.t
 	desc = JAP_debug_event.1.d
+	picture = GFX_JAP_report_socialist_rally
 	
 	option = {
-		load_focus_tree = {
-			tree = JAP_kodoha_focus
-			keep_completed = yes
-		}
+	}
+}
+
+country_event = {
+	id = JAP_debug_event.2
+	title = JAP_debug_event.2.t
+	desc = JAP_debug_event.2.d
+	
+	option = {
+		add_ideas = JAP_country_in_flames
+		country_lock_all_division_template = yes
+	}
+}
+
+country_event = {
+	id = JAP_debug_event.3
+	title = JAP_debug_event.3.t
+	desc = JAP_debug_event.3.d
+	
+	option = {
+		country_lock_all_division_template = no
 	}
 }
