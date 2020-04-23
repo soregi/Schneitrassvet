@@ -4,5 +4,9 @@ spriteTypes = {
 		name = "GFX_generic_report_socialist_rally"
 		texturefile = "gfx/event_pictures/JAP/JAP_report_socialist_rally.dds"
 		}
+		spriteType = {
+		name = "GFX_generic_report_welcome_lads"
+		texturefile = "gfx/event_pictures/JAP/JAP_report_welcome.dds"
+		}
 		
 }
