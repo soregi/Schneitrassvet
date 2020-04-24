@@ -1,0 +1,31 @@
+﻿l_english:
+
+minister:0 "장관"
+head_of_government:0 "정부수반"
+foreign_minister:0 "외교장관"
+economy_minister:0 "경제장관"
+interior_minister:0 "내무장관"
+head_of_intelligence:0 "정보부장"
+chief_of_staff:0 "총참모장"
+
+
+
+
+### JAP ###
+
+JAP_MCMH_hog_nso:0 "MC무현"
+JAP_MCMH_hog_nso_desc:0 "대한민국의 영원한 MC"
+JAP_MCMH_hog_mar:0 "MC무현"
+JAP_MCMH_hog_mar_desc:0 "대한민국의 영원한 MC"
+JAP_MCMH_hog_lso:0 "MC무현"
+JAP_MCMH_hog_lso_desc:0 "대한민국의 영원한 MC"
+JAP_MCMH_hog_sde:0 "MC무현"
+JAP_MCMH_hog_sde_desc:0 "대한민국의 영원한 MC"
+JAP_MCMH_hog_lde:0 "MC무현"
+JAP_MCMH_hog_lde_desc:0 "대한민국의 영원한 MC"
+JAP_MCMH_hog_con:0 "MC무현"
+JAP_MCMH_hog_con_desc:0 "대한민국의 영원한 MC"
+JAP_MCMH_hog_aut:0 "MC무현"
+JAP_MCMH_hog_aut_desc:0 "대한민국의 영원한 MC"
+JAP_MCMH_hog_stt:0 "MC무현"
+JAP_MCMH_hog_stt_desc:0 "대한민국의 영원한 MC"

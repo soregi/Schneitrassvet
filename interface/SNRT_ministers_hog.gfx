@@ -1,0 +1,34 @@
+spriteTypes = {	
+    spriteType = {
+        name = "GFX_idea_JAP_MCMH_hog_nso"
+        texturefile = "gfx/interface/ministers/JAP/JAP_MCMH_hog_stt.tga"
+    }
+	spriteType = {
+        name = "GFX_idea_JAP_MCMH_hog_mar"
+        texturefile = "gfx/interface/ministers/JAP/JAP_MCMH_hog_stt.tga"
+    }
+	spriteType = {
+        name = "GFX_idea_JAP_MCMH_hog_lso"
+        texturefile = "gfx/interface/ministers/JAP/JAP_MCMH_hog_stt.tga"
+    }
+	spriteType = {
+        name = "GFX_idea_JAP_MCMH_hog_sde"
+        texturefile = "gfx/interface/ministers/JAP/JAP_MCMH_hog_stt.tga"
+    }
+	spriteType = {
+        name = "GFX_idea_JAP_MCMH_hog_lde"
+        texturefile = "gfx/interface/ministers/JAP/JAP_MCMH_hog_stt.tga"
+    }
+	spriteType = {
+        name = "GFX_idea_JAP_MCMH_hog_con"
+        texturefile = "gfx/interface/ministers/JAP/JAP_MCMH_hog_stt.tga"
+    }
+	spriteType = {
+        name = "GFX_idea_JAP_MCMH_hog_aut"
+        texturefile = "gfx/interface/ministers/JAP/JAP_MCMH_hog_stt.tga"
+    }
+	spriteType = {
+        name = "GFX_idea_JAP_MCMH_hog_stt"
+        texturefile = "gfx/interface/ministers/JAP/JAP_MCMH_hog_stt.tga"
+    }
+}
