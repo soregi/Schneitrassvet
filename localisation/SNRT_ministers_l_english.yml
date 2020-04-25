@@ -7,7 +7,7 @@ economy_minister:0 "경제장관"
 interior_minister:0 "내무장관"
 head_of_intelligence:0 "정보부장"
 chief_of_staff:0 "총참모장"
-ministers_available:0 "정보부장을 제외한 정부 인물은 수동으로 바꿀 수 없습니다. 이벤트, 포커스, 디시전 등을 통해서만 가능합니다." 
+ministers_available:0 "정보부장을 제외한 정부 인물은 수동으로 교체할 수 없습니다. 이벤트, 포커스, 디시전 등을 통해서만 가능합니다." 
 
 
 
