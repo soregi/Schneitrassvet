@@ -39,11 +39,11 @@ idea_categories = {
 		slot = foreign_minister
 		slot = economy_minister
 		slot = interior_minister
-        slot = head_of_intelligence
+       		slot = head_of_intelligence
 		
 		ledger = civilian
 
-		removal_cost = 100 
+		removal_cost = 100
 	}
 	
 	military_staff = {
