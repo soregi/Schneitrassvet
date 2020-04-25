@@ -184,6 +184,20 @@ JAP_Kita_Ikki_hog_nso = {
         
         }
     }
+JAP_Okawa_Shumei_hog_nso = {
+    allowed = { original_tag = JAP }
+    available = {
+        always = no
+        custom_trigger_tooltip = {
+            tooltip = ministers_available
+        }
+    }
+    traits = {
+        head_of_government
+        national_socialist_trait
+        
+        }
+    }
 JAP_Tokuda_Kyuichi_hog_nso = {
     allowed = { original_tag = JAP }
     available = {

@@ -99,5 +99,9 @@ spriteType = {
     name = "GFX_idea_JAP_Suzuki_Mosaburo_hog_lso"
     texturefile = "gfx\interface\ministers\JAP\JAP_Suzuki_Mosaburo_hog_lso.tga"
 }
+spriteType = {
+    name = "GFX_idea_JAP_Okawa_Shumei_hog_nso"
+    texturefile = "gfx\interface\ministers\JAP\JAP_Okawa_Shumei_hog_nso.tga"
+}
 
 }
