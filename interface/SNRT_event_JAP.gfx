@@ -12,6 +12,14 @@ spriteTypes = {
 		name = "GFX_JAP_report_socialist_rally_2"
 		texturefile = "gfx/event_pictures/JAP/JAP_report_socialist_rally_2.dds"
 		}
+	spriteType = {
+		name = "GFX_JAP_report_japanese_soldiers"
+		texturefile = "gfx/event_pictures/JAP/JAP_report_japanese_soldiers.dds"
+		}
+	spriteType = {
+		name = "GFX_JAP_report_welcome_lads"
+		texturefile = "gfx/event_pictures/JAP/JAP_report_welcome.dds"
+		}
 		
 }
 	
