@@ -1,5 +1,26 @@
 #reload countrycolors
 
+FNG = {
+	color = rgb { 223 145 5 }
+	color_ui = rgb { 223 145 5 }
+}
+GMA = {
+	color = rgb { 100 184 184 }
+	color_ui = rgb { 100 184 184 }
+}
+KML = {
+	color = rgb { 206 0 0  }
+	color_ui = rgb { 206 0 0 }
+}
+KMR = {
+	color = rgb { 10 22 95 }
+	color_ui = rgb { 10 22 95 }
+}
+ZHL = {
+	color = rgb { 139 138 161 }
+	color_ui = rgb { 139 138 161 }
+}
+
 GER = {
 	color = HSV { 0.1 0.15 0.4 }
 	color_ui = rgb { 138 155 116 }
@@ -9,8 +30,8 @@ ENG = {
 	color_ui = rgb { 255 73 121 }
 }
 SOV = {
-	color = rgb { 125 13 24 }
-	color_ui = rgb { 163 17 31 }
+	color = rgb { 22 89 24 }
+	color_ui = rgb { 22 89 24 }
 }
 SWE = {
 	color = rgb { 36 132 247 }
@@ -234,7 +255,7 @@ SIA = {
 	color_ui = rgb { 222 247 198 }
 }
 SIK = {
-	color = rgb { 71 190 152 }
+	color = rgb { 246 255 86 }
 	color_ui = rgb { 222 247 198 }
 }
 TIB = {
@@ -721,9 +742,9 @@ HNA = {
 }
 FUJ = {
 	color = rgb { 153 102 204 }
-	color_ui = rgb { 153 102 204 ]}
+	color_ui = rgb { 153 102 204 }
 }
 GZC = {
-	color = rgb [ 204 102 102 }
+	color = rgb { 204 102 102 }
 	color_ui = rgb { 204 102 102 }
 }

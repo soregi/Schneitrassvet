@@ -3,24 +3,12 @@ state={
 	name="STATE_603"
 
 	history={
-		owner = GZC
-		add_core_of = GZC
-		add_core_of = CHI
-		add_core_of = PRC
+		owner = KMR
+		add_core_of = KMR
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 			arms_factory = 2
-
-		}
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 4
-				infrastructure = 4
-				air_base = 1
-				arms_factory = 2
-
-			}
 
 		}
 		victory_points = {

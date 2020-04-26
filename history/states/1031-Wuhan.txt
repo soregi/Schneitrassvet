@@ -3,9 +3,8 @@ state={
 	name="STATE_1031"
 
 	history={
-		owner = CHI
-		add_core_of = CHI
-		add_core_of = PRC
+		owner = KML
+		add_core_of = KML
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
@@ -13,21 +12,6 @@ state={
 		}
 		victory_points = {
 			4619 5 
-		}
-		1938.10.25 = {
-			buildings = {
-				industrial_complex = 2
-				infrastructure = 6
-				air_base = 2
-
-			}
-			JAP = {
-				set_province_controller = 1036
-				set_province_controller = 4619
-				set_province_controller = 4631
-
-			}
-
 		}
 
 	}

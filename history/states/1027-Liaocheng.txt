@@ -3,16 +3,10 @@ state={
 	name="STATE_1027"
 
 	history={
-		owner = SHD
-		add_core_of = SHD
-		add_core_of = CHI
-		add_core_of = PRC
+		owner = FNG
+		add_core_of = FNG
 		buildings = {
 			infrastructure = 3
-
-		}
-		1938.10.25 = {
-			controller = JAP
 
 		}
 
