@@ -10,8 +10,8 @@ state= {
 	}
 
 	history= {
-		owner = KML
-		add_core_of = KML
+		owner = GDC
+		add_core_of = GDC
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

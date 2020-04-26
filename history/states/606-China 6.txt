@@ -6,8 +6,8 @@ state={
 	}
 
 	history={
-		owner = ZHL
-		add_core_of = ZHL
+		owner = NJC
+		add_core_of = NJC
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1

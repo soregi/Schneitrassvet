@@ -25,12 +25,19 @@ focus_tree = {
 		x = 4
 		y = 5
 		cost = 5
+		cancelable = no
 		ai_will_do = {
 			factor = 10
 		}
 		prerequisite = { focus = PER_eliminate_the_remnants_of_cossacks }
+		select_effect = {
+			country_event = {
+				id = irancourt.0
+				days = 7
+			}
+		}
 		completion_reward = {
-		
+			add_political_power = 100
 		}
 	}
 	

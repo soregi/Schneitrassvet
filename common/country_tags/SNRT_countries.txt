@@ -1,4 +1,7 @@
-SHD	= "countries/Shandong Clique.txt"
+SDC	= "countries/Shandong Clique.txt"
+SCC	= "countries/Sichuan Clique.txt"
+CQC	= "countries/Chongqing Clique.txt"
+NJC	= "countries/Nanjing Clique.txt"
 HNA	= "countries/Hunan Clique.txt"
 DGB	= "countries/Dongbei.txt"
 GDC = "countries/Guangdong Clique.txt"

@@ -3,8 +3,8 @@ state={
 	name="STATE_1028"
 
 	history={
-		owner = ZHL
-		add_core_of = ZHL
+		owner = ENG
+		add_core_of = ENG
 		buildings = {
 			infrastructure = 5
 			11928 = {
