@@ -3,11 +3,11 @@ ideologies = {
 	national_socialism = {
 		types = {
 			national_socialism_subtype = {}
-		}
-		types = {
+		
+		
 			national_techno_socialism = {}
-		}
-		types = {
+	
+		
 			ethnic_socialism = {}
 		}
 		
@@ -51,14 +51,14 @@ ideologies = {
 	marxism = {	
 		types = {
 			marxism_subtype = {}
-		}
-		types = {
+		
+		
 			luxemburgism = {}
-		}
-		types = {
+		
+		
 			centrist_marxism = {}
-		}
-		types = {
+		
+		
 			bolivarianism = {}
 		}
 		
@@ -102,11 +102,11 @@ ideologies = {
 	liberal_socialism = {	
 		types = {
 			liberal_socialism_subtype = {}
-		}
-		types = {
+		
+		
 			anarchism = {}
-		}
-		types = {
+		
+		
 			syndicalism = {}
 		}
 		
@@ -150,14 +150,14 @@ ideologies = {
 	social_democracy = {	
 		types = {
 			social_democracy_subtype = {}
-		}
-		types = {
+		
+		
 			german_social_democracy = {}
-		}
-		types = {
+		
+		
 			fabianism = {}
-		}
-		types = {
+		
+		
 			jacobinism = {}
 		}
 		
@@ -201,11 +201,11 @@ ideologies = {
 	liberal_democracy = {	
 		types = {
 			liberal_democracy_subtype = {}
-		}
-		types = {
+		
+		
 			libertarianism = {}
-		}
-		types = {
+		
+		
 			social_liberalism = {}
 		}
 		
@@ -249,14 +249,14 @@ ideologies = {
 	conservatism = {	
 		types = {
 			conservatism_subtype = {}
-		}
-		types = {
+		
+		
 			social_conservatism = {}
-		}
-		types = {
+		
+		
 			national_conservatism = {}
-		}
-		types = {
+		
+		
 			liberal_conservatism = {}
 		}
 		
@@ -300,14 +300,14 @@ ideologies = {
 	authoritarian = {	
 		types = {
 			authoritarian_subtype = {}
-		}
-		types = {
+		
+		
 			despotism = {}
-		}
-		types = {
+		
+		
 			populism = {}
-		}
-		types = {
+		
+		
 			fundamentalism = {}
 		}
 		
@@ -351,15 +351,17 @@ ideologies = {
 	state_totalism = {	
 		types = {
 			state_totalism_subtype = {}
-		}
-		types = {
+		
+		
 			ethnic_integralism = {}
-		}
-		types = {
+		
+		
 			ethnic_colonialism = {}
-		}
-		types = {
+		
+		
 			national_technocrat = {}
+		
+			futurism = { can_be_randomly_selected = no }
 		}
 		
 		dynamic_faction_names = {}

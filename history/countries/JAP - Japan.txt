@@ -1,8 +1,11 @@
-set_politics = {	
-	ruling_party = state_totalism
-	last_election = "1962.1.1"
-	election_frequency = 48
-	elections_allowed = no
+create_country_leader = {
+	name = "Kita Ikki"
+	desc = "POLITICS_KITA_IKKI_DESC"
+	picture = "Portrait_Japan_Kita_Ikki.dds"
+	expire = "1989.1.1"
+	ideology = national_socialism_subtype
+	traits = {
+	}
 }
 
 create_country_leader = {
@@ -11,16 +14,6 @@ create_country_leader = {
 	picture = "Portrait_Japan_Hirohito.dds"
 	expire = "1989.1.1"
 	ideology = state_totalism_subtype
-	traits = {
-	}
-}
-
-create_country_leader = {
-	name = "Kita Ikki"
-	desc = "POLITICS_KITA_IKKI_DESC"
-	picture = "Portrait_Japan_Kita_Ikki.dds"
-	expire = "1989.1.1"
-	ideology = national_socialism_subtype
 	traits = {
 	}
 }
@@ -38,4 +31,11 @@ set_popularities = {
 
 add_ideas = {
 	JAP_nation_divided
+}
+
+set_politics = {	
+	ruling_party = state_totalism
+	last_election = "1962.1.1"
+	election_frequency = 48
+	elections_allowed = no
 }

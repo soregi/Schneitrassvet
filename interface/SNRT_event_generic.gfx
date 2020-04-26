@@ -2,23 +2,23 @@ spriteTypes = {
 		
 		spriteType = {
 		name = "GFX_generic_report_socialist_rally"
-		texturefile = "gfx/event_pictures/JAP/JAP_report_socialist_rally.dds"
+		texturefile = "gfx/event_pictures/JAP/JAP_report_socialist_rally.tga"
 		}
 		spriteType = {
 		name = "GFX_generic_report_welcome_lads"
-		texturefile = "gfx/event_pictures/JAP/JAP_report_welcome.dds"
+		texturefile = "gfx/event_pictures/JAP/JAP_report_welcome.tga"
 		}
 		spriteType = {
 		name = "GFX_generic_report_national_syndicalism"
-		texturefile = "gfx/event_pictures/generic/generic_report_national_syndicalism.dds"
+		texturefile = "gfx/event_pictures/generic/generic_report_national_syndicalism.tga"
 		}
 		spriteType = {
 		name = "GFX_generic_report_conference"
-		texturefile = "gfx/event_pictures/generic/generic_report_conference.dds"
+		texturefile = "gfx/event_pictures/generic/generic_report_conference.tga"
 		}
 		spriteType = {
 		name = "GFX_generic_report_placeholder"
-		texturefile = "gfx/event_pictures/generic/generic_report_placeholder.dds"
+		texturefile = "gfx/event_pictures/generic/generic_report_placeholder.tga"
 		}
 		
 }
