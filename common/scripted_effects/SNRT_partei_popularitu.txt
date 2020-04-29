@@ -13,7 +13,7 @@ ruling_party_coalition_pop_cal = {
             NOT = { has_government = marxism }
             has_country_flag = coalition_marxism
         }
-        set_temp_variable = { coalition_collectivist_pop = party_popularity@marxism }
+        set_temp_variable = { coalition_marxism_pop = party_popularity@marxism }
         add_to_variable = { coalition_ruling_party_pop = coalition_marxism_pop }
     }
     if = {
