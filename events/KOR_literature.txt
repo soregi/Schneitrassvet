@@ -5,6 +5,7 @@ country_event = {
 	title = korlit.t
 	desc = korlit.1.d
 	picture = GFX_JAP_report_socialist_rally
+	is_triggered_only = yes
 	
 	option = {
 		set_politics = {
@@ -29,5 +30,6 @@ country_event = {
 			long_name = KOR_LIT_STATE_PARTY_long
 			name = KOR_LIT_STATE_PARTY
 			}
+		set_country_flag = futurism_government
 	}
 }

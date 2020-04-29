@@ -378,8 +378,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_ideology_conservativism_group"
-		texturefile = "gfx/interface/ideologies/conservativism_group.dds"
+		name = "GFX_ideology_conservatism_group"
+		texturefile = "gfx/interface/ideologies/conservatism_group.dds"
 	}
 
 	spriteType = {
@@ -403,8 +403,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_ideology_social_liberalism_group"
-		texturefile = "gfx/interface/ideologies/social_liberalism_group.dds"
+		name = "GFX_ideology_liberal_democracy_group"
+		texturefile = "gfx/interface/ideologies/liberal_democracy_group.dds"
 	}
 
 	spriteType = {
