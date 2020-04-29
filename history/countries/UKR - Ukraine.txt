@@ -33,6 +33,7 @@ set_popularities = {
     liberal_democracy = 11
     conservatism = 8
     authoritarian = 42
+	paternal_autocracy = 0
     state_totalism = 12
 }
 

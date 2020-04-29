@@ -348,6 +348,48 @@ ideologies = {
 		ai_neutral = yes
 	}
 	
+	paternal_autocracy = {
+		types = {
+			paternal_autocracy_subtype = {}
+		}
+		
+		dynamic_faction_names = {}
+		color = { 45 45 45 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = no
+			can_join_factions = no
+		}
+		
+		can_host_government_in_exile = no
+		
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		
+		modifiers = {
+			generate_wargoal_tension = 1.00
+			join_faction_tension = 0.80
+			lend_lease_tension = 0.50
+			send_volunteers_tension = 0.50
+			guarantee_tension = 0.25
+			take_states_cost_factor = 0.25
+			justify_war_goal_when_in_major_war_time = 0.25
+			annex_cost_factor = 0.5
+			puppet_cost_factor = 0.25
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 5.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 5
+		}
+		
+		ai_neutral = yes
+	
+	}
+	
 	state_totalism = {	
 		types = {
 			state_totalism_subtype = {}

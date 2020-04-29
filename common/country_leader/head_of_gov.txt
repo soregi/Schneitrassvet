@@ -26,6 +26,7 @@ leader_traits = {
 	liberal_democrat_trait = {}
 	conservative_trait = {}
 	authoritarian_trait = {}
+	paternal_autocrat_trait = {}
 	state_totalist_trait = {}
 	
 }

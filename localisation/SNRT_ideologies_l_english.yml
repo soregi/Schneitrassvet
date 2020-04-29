@@ -32,6 +32,10 @@ state_totalism:0 "국가총력주의"
 state_totalism_noun:0 "국가총력주의"
 state_totalism_desc:0 "국가총력주의 정권"
 
+paternal_autocracy:0 "세습전제주의"
+paternal_autocracy_noun:0 "세습전제주의"
+paternal_autocracy_desc:0 "세습전제주의 정권"
+
 futurism:0 "미래주의"
 futurism_noun:0 "미래주의"
 futurism_desc:0 "미래주의 정권"

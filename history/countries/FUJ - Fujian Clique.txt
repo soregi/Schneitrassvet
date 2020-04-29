@@ -19,6 +19,7 @@ set_popularities = {
     conservatism = 10
     authoritarian = 37
     state_totalism = 10
+	paternal_autocracy = 0
 }
 create_country_leader = {
     name = "Li Jishen"
