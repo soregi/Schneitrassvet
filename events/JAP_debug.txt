@@ -33,3 +33,14 @@ country_event = {
 		country_lock_all_division_template = no
 	}
 }
+
+country_event = {
+	id = JAP_debug_event.4
+	title = JAP_debug_event.3.t
+	is_triggered_only = yes
+	desc = JAP_debug_event.3.d
+	
+	option = {
+		load_oob = JAP_1936
+	}
+}

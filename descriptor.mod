@@ -9,6 +9,7 @@ tags={
 	"Technologies"
 	"Translation"
 }
+replace_path="history/units"
 replace_path="common/ai_focuses"
 replace_path="common/ai_peace"
 replace_path="common/ai_strategy"
